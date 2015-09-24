@@ -36,6 +36,12 @@ h6 {
     font-weight: 700;
 }
 
+.bienvenida{
+    width: 200px;
+    height: 120px;
+    padding: 20px;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
