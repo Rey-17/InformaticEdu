@@ -463,3 +463,7 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+.contador{
+    font-size: 70px;
+    color: #f84525;
+}
